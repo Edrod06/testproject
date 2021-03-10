@@ -1,0 +1,29 @@
+h1 {
+    background-color: blueviolet;
+    max-width: 80%; 
+    margin: auto;
+    text-align: center;
+}
+
+h2 {
+    background-color: pink;
+    max-width: 90%;
+    margin: auto;
+    text-align: right;
+}
+
+img {
+    float: left;
+}
+
+#container {
+    display: flex;
+}
+
+#image-container {
+    float: left;
+}
+
+#text-container {
+    float: right;
+}
